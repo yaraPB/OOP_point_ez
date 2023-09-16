@@ -1,0 +1,8 @@
+From: https://www.exelib.net/csharp-poo/la-classe-point.html
+
+Work to do:
+1. Define a Point class characterized by its abscissa and its ordinate.
+2. Define access methods to class attributes using getters and setters.
+3. Set the default constructor and initializer of the class.
+4. Define the Distance( ) method which returns the distance between the origin of the mark and the current point.
+5. Write a program to test the class.
