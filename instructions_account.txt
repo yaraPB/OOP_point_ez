@@ -1,0 +1,29 @@
+//Source: www.exelib.net
+Work to do:
+
+1. Define a Customer class with the following attributes: 
+int CIN;
+String First Name;
+String Last Name;
+int Tel.
+
+2. Using properties, define the access methods to the different attributes of the class.
+
+2. Definitions:
+Define a constructor to initialize all attributes.
+Define a constructor to initialize the CIN, last name and first name.
+Define the Show( ) method to display the current Client information.
+
+3. Create An Account class characterized by its balance and a code which is incremented during its creation as well as its owner which represents a customer.
+Define using properties the access methods to the different attributes of the class (the account number and balance are read-only)
+Define a constructor allowing you to create an account by indicating its owner.
+
+4. Add the following methods to the Account class:
+A method to Credit() the account, taking an amount as a parameter.
+A method allowing to Credit() the account, taking an amount and an account as parameters, crediting the account and debiting the account passed as parameters.
+A method allowing to Debit() the account, taking an amount as a parameter
+A method allowing to Debit() the account, taking an amount and a bank account as parameters, debiting the account and crediting the account passed as parameters
+A method for displaying the summary of an account.
+A method that allows you to display the number of accounts created.
+
+5. Create a test program for the Account class.
